@@ -4,8 +4,8 @@ const ASSETS_TO_CACHE = [
     '/index.html',
     '/styles.css',
     '/app.js',
-    '/icons/icon-192x192.png',
-    '/icons/icon-512x512.png',
+    '/icon-192x192.png',
+    '/icon-512x512.png',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css',
     'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js',
     'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css'
